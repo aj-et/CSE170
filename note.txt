@@ -1,0 +1,15 @@
+Database:
+
+best data type for name? varchar(25)
+yyyy-mm-dd
+hh:mm:ss
+problem with big data? overflow? 
+
+
+Technical Teamwork:
+Teamwork makes everyones strenght and weaknesses work together.
+Introvert, Extrovert, and Ambivert
+Introverts Think silently
+Extrovert talk to think
+
+
